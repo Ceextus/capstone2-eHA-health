@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import Login from "./pages/login";
 import ProtectedRoute from "./components/ProtectedRoute";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 
 // Import actual page components
