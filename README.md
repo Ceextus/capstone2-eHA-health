@@ -3,6 +3,8 @@
 
 A brief description of what this project does and who it's for
 
+https://capstone2-e-ha-health.vercel.app/
+
 🏥 STMGT Hospital — Inventory & Equipment Assignment Portal
 
 A lightweight React + Vite hospital inventory management system designed to help hospitals track equipment, manage staff, and maintain a complete history of equipment assignments.
