@@ -1,7 +1,7 @@
 
 # Project Title
 
-A brief description of what this project does and who it's for
+(any random email and password can be used to login its a mock authentication)
 
 https://capstone2-e-ha-health.vercel.app/
 
